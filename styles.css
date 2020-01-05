@@ -79,7 +79,7 @@ a:hover {
 .post, about {
   max-width: 800px
   margin: 0 auto;
-  padding: 60px 0;
+  padding: 20px 0;
 }
 
 .post-author img {
@@ -119,6 +119,9 @@ p {
   border-radius: 50%;
 }
 
+.post-container {
+    margin-left: 22px;
+}
 .post-container:nth-child(even) {
   background-color: #f2f2f2;
 }
